@@ -1,6 +1,6 @@
 ### Hi Developers 👋
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Amuthan-red)](https://www.youtube.com/@ms.poonamchauhan743)
-[![Linkedin Badge](https://img.shields.io/badge/-Zuber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zmasalikar/)](https://www.linkedin.com/in/zmasalikar/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Komal-red)](https://www.youtube.com/@komalpatil5872)
+[![Linkedin Badge](https://img.shields.io/badge/-Komal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zmasalikar/)](https://www.linkedin.com/in/zmasalikar/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
